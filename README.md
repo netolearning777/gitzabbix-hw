@@ -3,9 +3,7 @@
 
 ### Инструкция по выполнению домашнего задания
 
-    Заполните этот файл README.md:
-      - для корректного добавления скриншотов воспользуйтесь [инструкцией "Как вставить скриншот в шаблон с решением](https://github.com/netology-code/sys-pattern-homework/blob/main/screen-instruction.md)
-      - при оформлении используйте возможности языка разметки md (коротко об этом можно посмотреть в [инструкции  по MarkDown](https://github.com/netology-code/sys-pattern-homework/blob/main/md-instruction.md))
+`    - при оформлении используйте возможности языка разметки md (коротко об этом можно посмотреть в [инструкции  по MarkDown](https://github.com/netology-code/sys-pattern-homework/blob/main/md-instruction.md))`
    4. После завершения работы над домашним заданием сделайте коммит (`git commit -m "comment"`) и отправьте его на Github (`git push origin`);
    5. В личном кабинете прикрепите и отправьте ссылку на решение в виде md-файла в вашем Github.
       
@@ -27,8 +25,7 @@
 10. `systemctl restart zabbix-server zabbix-agent apache2`
 11. `systemctl enable zabbix-server zabbix-agent apache2`
 
-`Cкриншот
-![Web-интерфейс zabbix](ссылка на скриншот 1)`
+![Скриншот Web-интерфейс zabbix](https://github.com/netolearning777/gitzabbix-hw/blob/main/img/2026-07-16_13-05-47.png)
 
 
 ---
