@@ -31,14 +31,14 @@
 
 ### Задание 2
 
-`Приведите ответ в свободной форме........`
+`Установите Zabbix Agent на два хоста.`
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
+1. `sudo wget https://repo.zabbix.com/zabbix/6.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_6.0+ubuntu24.04_all.deb`
+2. `sudo dpkg -i zabbix-release_latest_6.0+ubuntu24.04_all.deb`
+3. `sudo apt update`
+4. `sudo apt install zabbix-agent`
+5. `sudo systemctl restart zabbix-agent`
+6. `sudo systemctl enable zabbix-agent`
 
 ```
 Поле для вставки кода...
