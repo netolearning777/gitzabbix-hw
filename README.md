@@ -27,8 +27,8 @@
 10. `systemctl restart zabbix-server zabbix-agent apache2`
 11. `systemctl enable zabbix-server zabbix-agent apache2`
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+`Cкриншот
+![Web-интерфейс zabbix](ссылка на скриншот 1)`
 
 
 ---
