@@ -43,9 +43,22 @@
 8. `sudo zabbix_agentd -R log_level_increase` `повышает детализацию лога`
 9. `sudo tail -f /var/log/zabbix/zabbix_agentd.log`
 
+`Скриншоты`
+![hosts](https://github.com/netolearning777/gitzabbix-hw/blob/main/img/2026-07-16_16-41-32.png)
+
+![Latest data удаленной машины](https://github.com/netolearning777/gitzabbix-hw/blob/main/img/2026-07-16_16-44-46.png)
+
+![Latest data zabbix servera](https://github.com/netolearning777/gitzabbix-hw/blob/main/img/2026-07-16_16-45-28.png)
+
+![zabbix_agentd.conf](https://github.com/netolearning777/gitzabbix-hw/blob/main/img/VirtualBox_ubuntu-desktop-24_16_07_2026_16_34_59.png)
+
+![tail -f /var/log/zabbix/zabbix_agentd.log](https://github.com/netolearning777/gitzabbix-hw/blob/main/img/VirtualBox_ubuntu-desktop-24_17_07_2026_09_16_01.png)
+
+![tail -f /var/log/zabbix/zabbix_agentd.log 2](https://github.com/netolearning777/gitzabbix-hw/blob/main/img/VirtualBox_ubuntu-desktop-24_17_07_2026_09_18_35.png)
+
 ```
 Поле для вставки кода...
 ....
-Скриншоты
-![Название ](ссылка на скриншот 2)`
+
+
 
