@@ -39,6 +39,9 @@
 4. `sudo apt install zabbix-agent`
 5. `sudo systemctl restart zabbix-agent`
 6. `sudo systemctl enable zabbix-agent`
+7. `sudo nano /etc/zabbix/zabbix_agentd.conf` `Указать в параметр Server= IP адрес сервера zabbix` `перезапустить агент sudo systemctl restart zabbix-agent`
+8. `sudo zabbix_agentd -R log_level_increase` `повышает детализацию лога`
+9. `sudo tail -f /var/log/zabbix/zabbix_agentd.log`
 
 ```
 Поле для вставки кода...
